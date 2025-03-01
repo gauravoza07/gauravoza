@@ -1,9 +1,9 @@
-import React from "react";
+import React from 'react'
 
-function Footer() {
+const Footer = () => {
   return (
     <>
-      {/* FOOTER AREA START  */}
+        {/* FOOTER AREA START  */}
       <footer class="tj-footer-area">
         <div class="container">
           <div class="row">
@@ -45,7 +45,8 @@ function Footer() {
       </footer>
       {/* FOOTER AREA END  */}
     </>
-  );
+  )
 }
 
-export default Footer;
+export default Footer
+

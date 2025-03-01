@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react'
 
 function Header() {
   return (
@@ -138,9 +138,8 @@ function Header() {
         </div>
       </header>
       {/* <!-- HEADER END --> */}
-      {/* </body> */}
     </>
-  );
+  )
 }
 
-export default Header;
+export default Header
