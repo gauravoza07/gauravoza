@@ -4,6 +4,7 @@ function Header() {
   return (
     <>
       {/* HEADER START */}
+      <h1>This is HEader</h1>
       <header className="tj-header-area header-absolute">
         <div className="container">
           <div className="row">
