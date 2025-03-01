@@ -31,7 +31,7 @@ function Footer() {
               </div>
               <div class="copy-text">
                 <p>
-                  &copy; 2024 All rights reserved by{" "}
+                  &copy; {new Date().getFullYear()} All rights reserved by{" "}
                   <a href="#" target="_blank">
                     Gaurav Oza
                   </a>
