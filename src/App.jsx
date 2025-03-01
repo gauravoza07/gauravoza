@@ -7,8 +7,10 @@ function App() {
   return (
     <>
     <Header />
-    <h1>Hello I am Gaurav Oza.</h1>
-    <h3>Site coming soon...</h3>
+    <main>
+      <h1>Hello I am Gaurav Oza.</h1>
+      <h3>Site coming soon...</h3>
+    </main>
     <Footer/>
     </>
   )
